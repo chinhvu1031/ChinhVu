@@ -1,0 +1,44 @@
+.navbar.navbar-expand-lg{
+    padding: 20px;
+}
+.img-fluid{
+    width: 15%;
+    padding-left: 50px;
+}
+.nav-link{
+    color: red;
+}
+
+.food-search{
+    background-image: url("img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+}
+.food-search input[type="search"]{
+    width: 50%;
+    padding: 0.5%;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10px;
+}
+.food-menu{
+    border-radius: 30px;
+    width: 70%;
+    
+}
+.img-res{
+    margin-top: 20px;
+}
+
+.img-food-menu{
+    width: 80%;
+    margin: 20px;
+    float: left;
+}
+
+a{
+    color: rgb(221, 37, 83);
+    text-decoration: black;
+}

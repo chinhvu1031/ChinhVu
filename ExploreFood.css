@@ -1,0 +1,74 @@
+
+.navbar.navbar-expand-lg {
+    padding: 20px;
+}
+
+.logo {
+    width: 15%;
+    padding-left: 50px;
+}
+
+.nav-link {
+    color: red;
+}
+
+.nav-link:hover {
+    color: rgb(150, 233, 150);
+}
+
+.explore-food {
+    margin-top: 50px;
+}
+
+.img-res {
+    margin-top: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.card-img-top {
+    border-radius: 10px;
+}
+.row.d-inline-flex {
+    padding-left: 20%;
+}
+.card {
+    border: none;
+}
+
+.float-text {
+    position: absolute;
+    bottom: 15px;
+    left: 40%;
+}
+
+.my-bg {
+    background-color: rgb(241, 240, 240);
+    padding-top: 50px;
+}
+
+
+
+.text-last {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    padding-bottom: 50px;
+}
+a {
+    color: red;
+    text-decoration: none;
+}
+
+.img-icon {
+    padding: 1%;
+    padding-bottom: 5px;
+}
+
+.oip {
+    width: 19%;
+    margin-top: 20px;
+    margin-left: 20%;
+    border-radius: 10px;
+}
